@@ -1,0 +1,128 @@
+Chapter1 Thinking in Algorithms
+Understand the Problem
+Naïve Solution
+Intelligent Approaches
+Summary
+References
+
+Chapter2 The Mathematics of Algorithms
+Size of a Problem Instance
+Rate of Growth of Functions
+Analysis in the Best, Average, and Worst Cases
+Performance Families
+Benchmark Operations
+References
+
+Chapter3 Algorithm Building Blocks
+Algorithm Template Format
+Pseudocode Template Format
+Empirical Evaluation Format
+Floating-Point Computation
+Example Algorithm
+Common Approaches
+References
+
+Chapter4 Sorting Algorithms
+Terminology
+Representation
+Comparable Elements
+Stable Sorting
+Criteria for Choosing a Sorting Algorithm
+Transposition Sorting
+Selection Sort
+Heap Sort
+Partition-Based Sorting
+Sorting without Comparisons
+Bucket Sort
+Sorting with Extra Storage
+String Benchmark Results
+Analysis Techniques
+References
+
+Chapter5 Searching
+Sequential Search
+Binary Search
+Hash-Based Search
+Bloom Filter
+Binary Search Tree
+References
+
+Chapter6 Graph Algorithms
+Graphs
+Depth-First Search
+Breadth-First Search
+Single-Source Shortest Path
+Dijkstra’s Algorithm for Dense Graphs
+Comparing Single-Source Shortest-Path Options
+All-Pairs Shortest Path
+Minimum Spanning Tree Algorithms
+Final Thoughts on Graphs
+References
+
+Chapter7 Path Finding in AI
+Game Trees
+Path-Finding Concepts
+Minimax
+NegMax
+AlphaBeta
+Search Trees
+Depth-First Search
+Breadth-First Search
+A*Search
+Comparing Search-Tree Algorithms
+References
+
+Chapter8 Network Flow Algorithms
+Network Flow
+Maximum Flow
+Bipartite Matching
+Reflections on Augmenting Paths
+Minimum Cost Flow
+Transshipment
+Transportation
+Assignment
+Linear Programming
+References
+
+Chapter9 Computational Geometry
+Classifying Problems
+Convex Hull
+Convex Hull Scan
+Computing Line-Segment Intersections
+LineSweep
+Voronoi Diagram
+References
+
+Chapter10 Spatial Tree Structures
+Nearest Neighbor Queries
+Range Queries
+Intersection Queries
+Spatial Tree Structures
+Nearest Neighbor Queries
+Range Query
+Quadtrees
+R-Trees
+References
+
+Chapter11 Emerging Algorithm Categories
+Variations on a Theme
+Approximation Algorithms
+Parallel Algorithms
+Probabilistic Algorithms
+References
+
+Chapter12 Epilogue: Principles of Algorithms
+Know Your Data
+Decompose a Problem into Smaller Problems
+Choose the Right Data Structure
+Make the Space versus Time Trade-Off
+Construct a Search
+Reduce Your Problem to Another Problem
+Writing Algorithms Is Hard—Testing Algorithms Is Harder
+Accept Approximate Solutions When Possible
+Add Parallelism to Increase Performance
+Appendix Benchmarking
+Statistical Foundation
+Example
+Reporting
+Precision
