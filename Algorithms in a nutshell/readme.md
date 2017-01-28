@@ -1,7 +1,7 @@
 # Algorithms in a Nutshell
 
 <img src="cover.jpg" alt="" height="300>  
-
+  
 * **Publisher**  http://shop.oreilly.com/product/0636920032885.do  
 * **Github**  https://github.com/heineman/algorithms-nutshell-2ed  
 
